@@ -71,3 +71,40 @@ body {
     height: 434px;
     width: 650px;
 }
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 32px;
+    padding: 48px 0 96px 0;
+}
+
+.info-title {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.info-cards {
+    display: flex;
+    gap: 32px;
+}
+
+.info-card {
+    width: 208px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 18px;
+}
+
+.info-image {
+    height: auto;
+    width: 200px;
+    border-radius: 15%;
+}
+
+.info-text {
+    font-size: 16px;
+}
