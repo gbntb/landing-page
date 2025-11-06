@@ -127,3 +127,40 @@ body {
     font-weight: bold;
     align-self: flex-end;
 }
+
+.cta-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 96px 0;
+}
+
+.cta {
+    background-color: #3882f6;
+    display: flex;
+    align-items: center;
+    gap: 48px;
+    padding: 48px 156px;
+    border-radius: 12px;
+}
+
+.cta-content-title {
+    color: #f9faf8;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.cta-content-text {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+.cta-button {
+    background-color: #3882f6;
+    color: #f9faf8;
+    font-size: 18px;
+    border: #f9faf8 2px solid;
+    border-radius: 5px;
+    flex-shrink: 0;
+    padding: 4px 24px;
+}
