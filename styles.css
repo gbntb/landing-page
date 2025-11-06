@@ -3,3 +3,30 @@
     margin: 0;
     padding: 0;
 }
+
+body {
+    font-family: Roboto, sans-serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    background-color: #1f2937;
+    display: flex;
+    padding: 12px 120px;
+}
+
+.header-logo {
+    color: #f9faf8;
+    font-size: 24px;
+    margin-right: auto;
+}
+
+.header-links {
+    color: #e5e7eb;
+    font-size: 18px;
+    list-style-type: none;
+    display: flex;
+    gap: 16px;
+}
