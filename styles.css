@@ -109,3 +109,20 @@ body {
     font-size: 16px;
 }
 
+.quote {
+    background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
+    padding: 96px 260px;
+}
+
+.quote-text {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight: 300;
+}
+
+.quote-signature {
+    font-weight: bold;
+    align-self: flex-end;
+}
