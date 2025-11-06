@@ -164,3 +164,17 @@ body {
     flex-shrink: 0;
     padding: 4px 24px;
 }
+
+.footer {
+    background-color: #1f2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 0;
+    margin-top: auto;
+}
+
+.footer-text {
+    font-size: 18px;
+}
