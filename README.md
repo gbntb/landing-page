@@ -1,3 +1,5 @@
 # landing-page
 This is a project from The Odin Project where I'm asked to replicate a design from a screenshot.
 This promises to put my newly acquired (basic) HTML and CSS skills to practice...
+
+Main picture taken by Atanas Dzhingarov.

@@ -30,3 +30,44 @@ body {
     display: flex;
     gap: 16px;
 }
+
+.hero {
+    background-color: #1f2937;
+    display: flex;
+    gap: 32px;
+    padding: 48px 120px;
+}
+
+.hero-main {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    align-items: flex-start;
+}
+
+.hero-title {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.hero-text {
+    color: #e5e7eb;
+    font-size: 18px;
+
+}
+
+.hero-button {
+    color: #f9faf8;
+    background-color: #3882f6;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 4px 18px;
+    border: none;
+    border-radius: 15%;
+}
+
+.hero-image {
+    height: auto;
+    width: 650px;
+}
